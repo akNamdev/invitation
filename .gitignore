@@ -1,9 +1,2 @@
 # Source / temp files (not needed for the live invitation)
-invitation.pdf
-pdf-page-*.png
-pdf-page-*.txt
-invitation-text.txt
-photos/_collage.jpg
-photos/_single.jpg
-.DS_Store
-Thumbs.db
+
